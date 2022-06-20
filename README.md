@@ -4,14 +4,14 @@
 * L393D Motor Driver
 * Cizgi İzleyen Sensör Konnekörü
 * HC-SR04 Mesafe Sensörü Konnektörü
-* Bluetooth Konnnektörü
+* Bluetooth Konnektörü
 * LM35 Sıcaklık Sensörü
 * Infrared Sensör
 * WS18B20 LED
-* Servo Motor Konnnektörü
+* Servo Motor Konnektörü
 * LDR
 * Buzzer
-* I2C Bağlantı Konnnektörü
+* I2C Bağlantı Konnektörü
 
 
 ![Schmatic](https://user-images.githubusercontent.com/38187643/174641748-957ebabc-eaf3-4acd-b762-40a4906b3b3e.PNG)
