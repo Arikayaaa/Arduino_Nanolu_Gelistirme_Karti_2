@@ -1,5 +1,6 @@
 # Arduino_Nanolu_Gelistirme_Karti_2
 
+* Arduino Nano
 * L393D Motor Driver
 * Cizgi İzleyen Sensör Konnekörü
 * HC-SR04 Mesafe Sensörü Konnektörü
